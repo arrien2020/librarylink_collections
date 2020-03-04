@@ -1,0 +1,74 @@
+{
+  "label": "DC Public Library - Top Reads Written by Women",
+  "description": "This year's top checkouts of books written by women.",
+  "list": [
+    {
+      "label": "Educated: A Memoir",
+      "isbns": [
+        "9780399590504",	
+        "9780399590511"	
+      ]
+    },
+    {
+      "label": "Little Fires Everywhere: A Novel",
+      "isbns": [
+        "9780735224292",
+        "9780735224308"
+      ]
+    },
+    {
+      "label": "Becoming",
+      "isbns": [
+        "9781524763138",		
+        "9781524763152"
+      ]
+    },
+    {
+      "label": "Where the Crawdads Sing",
+      "isbns": [
+        "9780735219090",		
+        "9780735219113"
+     ]
+   },
+   {
+      "label": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "isbns": [
+        "9781524731656",		
+        "9788828351603"
+  ]
+},
+{
+      "label": "Eleanor Oliphant is Completely Fine",
+      "isbns": [
+        "9780735220683",		
+        "9780735220706"
+  ]
+},
+{
+      "label": "Fleishman is in Trouble: A Novel",
+      "isbns": [
+        "9780525510871",		
+        "9780525510888"
+  ]
+},
+{
+      "label": "The Great Believers",
+      "isbns": [
+        "9780735223523",		
+        "9780735223523"
+  ]
+},
+{
+      "label": "Conversations with Friends: a Novel",
+      "isbns": [
+        "9780451499059",		
+        "9780451499073"
+  ]
+},
+{
+      "label": "The Power: a Novel",
+      "isbns": [
+        "9780316547611",		
+        "9780316558372"
+  ]
+}
